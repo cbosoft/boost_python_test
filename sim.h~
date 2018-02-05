@@ -1,5 +1,0 @@
-class Sim{
- public:
-  Sim();
-  ~Sim();
-};
